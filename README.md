@@ -528,6 +528,14 @@ This contract allows you to:
 - [Remix IDE](https://remix.ethereum.org/)
 - [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)
 
+## 👨‍💻 Creator
+
+**Created by:** ALEX DROPZ
+
+📱 **Telegram Channel:** [https://t.me/ALEXDEVIL2021/](https://t.me/ALEXDEVIL2021/)
+
+*Follow for more blockchain development tutorials, Solidity tips, and crypto insights!*
+
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
