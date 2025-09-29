@@ -2,6 +2,8 @@
 
 A comprehensive collection of Solidity smart contract exercises from the Base Learn platform. These exercises cover fundamental to advanced concepts in Solidity development.
 
+After Claiming NFTs, Verify and Claim Discord Roles — https://guild.xyz/base
+
 ## 📚 Contents
 
 - [Base Sepolia Network Information](#-base-sepolia-network-information)
