@@ -577,7 +577,7 @@ This contract allows you to:
 
 ## 👨‍💻 Creator
 
-**Created by:** ALEXDEVIL2021
+**Created by:** ALEX DROPZ
 
 📱 **Telegram Channel:** [https://t.me/ALEXDEVIL2021/](https://t.me/ALEXDEVIL2021/)
 
