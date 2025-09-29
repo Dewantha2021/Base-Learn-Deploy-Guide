@@ -4,6 +4,8 @@ A comprehensive collection of Solidity smart contract exercises from the Base Le
 
 After Claiming NFTs, Verify and Claim Discord Roles — https://guild.xyz/base
 
+<img width="1052" height="648" alt="image" src="https://github.com/user-attachments/assets/78406fcb-bc02-462f-b23d-d674d72df600" />
+
 ## 📚 Contents
 
 - [Base Sepolia Network Information](#-base-sepolia-network-information)
