@@ -2,8 +2,9 @@
 
 A comprehensive collection of Solidity smart contract exercises from the Base Learn platform. These exercises cover fundamental to advanced concepts in Solidity development.
 
-## 📚 Table of Contents
+## 📚 Contents
 
+- [Base Sepolia Network Information](#-base-sepolia-network-information)
 - [Getting Started with Remix](#getting-started-with-remix)
 - [Exercise 1: Safe Math with Error Reporting](#baselearn_1---safe-math-with-error-reporting)
 - [Exercise 2: Control Structures](#baselearn_2---control-structures)
@@ -18,6 +19,44 @@ A comprehensive collection of Solidity smart contract exercises from the Base Le
 - [Exercise 11: Minimal Token Development](#baselearn_11---minimal-token-development)
 - [Exercise 12: ERC-20 Weighted Voting](#baselearn_12---erc-20-weighted-voting)
 - [Exercise 13: ERC-721 Haiku NFTs](#baselearn_13---erc-721-haiku-nfts)
+
+---
+
+## 🌐 Base Sepolia Network Information
+
+### Block Explorers
+- **Primary Explorer**: [https://sepolia-explorer.base.org](https://sepolia-explorer.base.org)
+- **Basescan (Sepolia)**: [https://sepolia.basescan.org](https://sepolia.basescan.org)
+- **Blockscout (Sepolia)**: [https://base-sepolia.blockscout.com](https://base-sepolia.blockscout.com)
+
+### Network Configuration
+Add Base Sepolia to your wallet with these details:
+```
+Network Name: Base Sepolia
+Chain ID: 84532
+RPC URL: https://sepolia.base.org
+Currency Symbol: ETH
+```
+
+### 💧 Testnet Faucets
+
+**Main Faucets:**
+- **Circle Faucet**: [https://faucet.circle.com](https://faucet.circle.com) (select "Base Sepolia")
+- **Coinbase Developer Platform**: [https://portal.cdp.coinbase.com/products/faucet](https://portal.cdp.coinbase.com/products/faucet)
+- **Superchain Faucet**: [https://app.optimism.io/faucet](https://app.optimism.io/faucet)
+- **Alchemy Faucet**: [https://basefaucet.com/](https://basefaucet.com/)
+- **thirdweb Faucet**: [https://thirdweb.com/base-sepolia-testnet](https://thirdweb.com/base-sepolia-testnet)
+
+**Additional Options:**
+- **Bware Labs**: [https://bwarelabs.com/faucets](https://bwarelabs.com/faucets)
+- **Chainstack**: [https://faucet.chainstack.com/](https://faucet.chainstack.com/)
+- **QuickNode**: [https://faucet.quicknode.com/drip](https://faucet.quicknode.com/drip)
+- **LearnWeb3**: [https://learnweb3.io/faucets/base_sepolia](https://learnweb3.io/faucets/base_sepolia)
+- **Ethereum Ecosystem**: [https://www.ethereum-ecosystem.com/faucets/base-sepolia](https://www.ethereum-ecosystem.com/faucets/base-sepolia)
+
+### Contract Verification APIs
+- **Basescan API**: [https://api-sepolia.basescan.org/api](https://api-sepolia.basescan.org/api)
+- **Blockscout API**: [https://base-sepolia.blockscout.com/api](https://base-sepolia.blockscout.com/api)
 
 ---
 
@@ -521,6 +560,8 @@ This contract allows you to:
 
 ---
 
+---
+
 ## 📖 Additional Resources
 
 - [Base Documentation](https://docs.base.org/)
@@ -528,9 +569,11 @@ This contract allows you to:
 - [Remix IDE](https://remix.ethereum.org/)
 - [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)
 
+---
+
 ## 👨‍💻 Creator
 
-**Created by:** ALEX DROPZ
+**Created by:** ALEXDEVIL2021
 
 📱 **Telegram Channel:** [https://t.me/ALEXDEVIL2021/](https://t.me/ALEXDEVIL2021/)
 
